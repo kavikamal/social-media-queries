@@ -30,6 +30,7 @@ app.post('/users',(req, res) =>{
     client.query(text, values,  (err, result) => {
         console.log(err);
         console.log(result.rows[0]);
+        res.send(result.rows);
     });
 }); 
 
