@@ -1,0 +1,8 @@
+{
+  "name": "social-media-queries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kavikamal/social-media-queries.git",
+  "author": "Kavitha Kamal <kavithakamal@gmail.com>",
+  "license": "MIT"
+}
